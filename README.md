@@ -1,2 +1,2 @@
-# EducationWeb
+# learnx.education — Course, Instructor, and University Collaboration Platform 
 Our platform makes it easy for students to search for courses they want to learn or improve in. It also allows professors to register and offer courses, and enables companies to find training programs for their teams. Additionally, universities can showcase their projects, and easily search for qualified professors and experts to collaborate with.
