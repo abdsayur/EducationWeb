@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.find-degree {
+    background-image: url(../img/all-img/shape-3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
